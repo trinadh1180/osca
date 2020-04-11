@@ -1,5 +1,3 @@
-# osca
-shortest remaining time first
 #include<stdio.h>
 #include<conio.h>
 int main()
